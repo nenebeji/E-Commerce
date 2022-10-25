@@ -26,7 +26,7 @@
 
 ## Project Description
 
-This is an Express.Js back end application that for an E-commerce site.
+This is an Express.Js back end application for an E-commerce site.
 
 * When a user adds their database name, MySQL username, and MySQL password to an environment variable file they are connected to a database using Sequelize.
 
@@ -37,8 +37,6 @@ This is an Express.Js back end application that for an E-commerce site.
 * When they open API GET routes in Insomnia for categories, products, or tags, the data for each of these routes is displayed in a formatted JSON.
 
 * Users can test API POST, PUT, and DELETE routes in Insomnia to successfully create, update, and delete data in my database.
-
-
 
 
 ## Installation
