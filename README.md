@@ -63,7 +63,7 @@ Run $ node server.js to start the application.
 
 ## How to Contribute
 
-1. Clone the repo using $ git clone git@github.com:nenebeji/Notebook
+1. Clone the repo using $ git clone git@github.com:nenebeji/E-Commerce
 
 2. Create a new branch $ git checkout -b your name 
 
